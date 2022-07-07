@@ -2067,6 +2067,14 @@ hr {
   .ServicesEach-popUpBtn {
     margin-top: 10px;
   }
+  
+  .HomeFooter-input-container {
+    width: 150px;
+  }
+
+  .HomeFooter-signUp-btn {
+    padding: 0px 10px;
+  }
 }
 
 @media all and (max-width: 300px) {
@@ -2138,14 +2146,6 @@ hr {
 
   .top-right-container {
     width: 200px;
-  }
-
-  .HomeFooter-input-container {
-    width: 150px;
-  }
-
-  .HomeFooter-signUp-btn {
-    padding: 0px 10px;
   }
 
   .Services-eachProcedure-cont {
