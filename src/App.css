@@ -2073,7 +2073,8 @@ hr {
   }
 
   .HomeFooter-signUp-btn {
-    padding: 15px 10px;
+    padding: 0px 10px;
+    font-size: 14px;
   }
 }
 
