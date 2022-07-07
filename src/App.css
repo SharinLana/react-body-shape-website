@@ -1950,6 +1950,10 @@ hr {
     font-size: 12px;
     margin: 0;
   }
+  
+  .Services-showInput {
+    width: 170px;
+  }
 
   .ServicesEach-header {
     font-size: 28px;
