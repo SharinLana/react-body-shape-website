@@ -69,7 +69,7 @@ function HomeFooter() {
                     <a href='#'><img className='HomeFooter-icon' src={googleIcon} alt='google icon'/></a>
                     <a href='#'><img className='HomeFooter-icon' src={whatsAppIcon} alt='whatsapp icon'/></a>
                 </div>
-                <p className='HomeFooter-par'>© 2019-2022 BODY SHAPE LLC. All rights reserved</p>
+                <p className='HomeFooter-par'>All images and other media were taken from open sources for educational purposes</p>
             </div>
         </div>
 
@@ -79,7 +79,7 @@ function HomeFooter() {
                     <a href='#'><img className='HomeFooter-icon' src={googleIcon} alt='google icon'/></a>
                     <a href='#'><img className='HomeFooter-icon' src={whatsAppIcon} alt='whatsapp icon'/></a>
                 </div>
-                <p className='HomeFooter-par'>© 2019-2022 BODY SHAPE LLC. All rights reserved</p>
+                <p className='HomeFooter-par'>All images and other media were taken from open sources for educational purposes</p>
             </div>
         </div>
     </div>
